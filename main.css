@@ -1,0 +1,143 @@
+body {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: whitesmoke;
+	font-family: "Gill Sans", sans-serif;
+	text-align: justify;
+	font-size: 18px;
+}
+
+.data {
+	max-width: 100%;
+	width: 95%;
+	align-content: center;
+	margin: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.photo {
+	max-width: 100%;
+}
+
+.photo-caption {
+	font-size: 14px;
+	color: grey;
+	margin-top: 5px;
+	margin-left: 3px;
+	margin-bottom: 20px;
+}
+
+.author-photo {
+	width: 10%;
+	margin-left: 30px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	float: left;
+}
+
+h1 {
+	font-size: 69px;
+	font-family: Georgia, serif;;
+	color: white;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 0px;
+	border-top: 8px;
+	border-top-color: #199E3F;
+	border-bottom: 8px;
+	border-bottom-color: #199E3F;
+	border-left: 8px;
+	border-left-color: #199E3F;
+	border-right: 8px;
+	border-right-color: #199E3F;
+	background-color: #199E3F;
+	border-style: solid;
+	max-width: 100%;
+
+}
+
+h2 { 
+	font-family: monospace;
+	font-size: 45px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+h3 {
+	margin-top: 0px;
+	margin-left: 30px;
+	margin-bottom:  10px;
+	border-top: 1px;
+	border-top-color: black;
+	border-bottom: 1px;
+	border-bottom-color: black;
+	border-left: 1px;
+	border-left-color:black ;
+	border-right: 1px;
+	border-right-color: black;
+	background-color: lightgrey;
+	border-style: solid;
+	width: 122px;
+	padding: 5px;
+}
+
+h4{
+	margin-left: 30px;
+	margin-top: 7px;
+	color: grey;
+	font-family: sans-serif;
+}
+
+.byline {
+	margin-top: 5px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+h5 {
+	font-size: 14px;
+	font-family: sans-serif;
+}
+
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	max-width: 90%;
+}
+
+.quote {
+	font-size: 35px;
+	text-align: center;
+	float: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+	max-width: 90%;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-top: 25px;
+}
+
+a:link {
+	color: #199E3F;
+}
+
+a:visited {
+	color: #199E3F;
+}
+
+a:hover {
+	font-size: 20px;
+}
